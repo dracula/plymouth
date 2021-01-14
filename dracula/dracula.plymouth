@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Dracula
+Description=Dracula Logo with spinning colored stripes
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dracula
+ScriptFile=/usr/share/plymouth/themes/dracula/dracula.script
+UseFirmwareBackground=false

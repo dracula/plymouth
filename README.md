@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/plymouth](https://draculatheme.com/plymouth).
 
 ## Team
 
